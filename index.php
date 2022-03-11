@@ -8,7 +8,7 @@ header("Access-Control-Allow-Origin: *");
 <div id="box">
 
 	<center><h1 style="color: #ffffff; font-family:verdana">Captcha</h1></center> 
-	<script type="text/javascript" src="js/captcha.js"></script> 
+	<script type="text/javascript" src="captcha.js"></script> 
 	<br>
 	<center><input type="text" id="adanax" type="text" value=""placeholder="Captcha" maxlength="7"></center>
     <br>
